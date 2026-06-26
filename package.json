@@ -1,0 +1,16 @@
+{
+  "name": "2301921690013",
+  "version": "1.0.0",
+  "main": "priority_inbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
